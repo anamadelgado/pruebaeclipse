@@ -8,6 +8,7 @@ public class clase1 {
 		String nombre="";
 		System.out.println("adios");
 		System.out.println("aa");
+		System.out.println("perfeeee");
 
 	}
 
