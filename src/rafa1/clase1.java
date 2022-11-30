@@ -7,6 +7,7 @@ public class clase1 {
 		System.out.println("hola");
 		String nombre="";
 		System.out.println("adios");
+		System.out.println("aa");
 
 	}
 
